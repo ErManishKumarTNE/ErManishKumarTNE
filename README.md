@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone 👋, I'm <span style="color:#00bcd4;">Manish Kumar</span> 🔭</h1>
 <p align="center">
-  <img src="https://hits.sh/github.com/DevManishKumar/DevManishKumar.svg?style=flat-square&label=Profile%20Views" />
+  <img src="https://hits.sh/github.com/ErManishKumarTNE/ErManishKumarTNE?style=flat-square&label=Profile%20Views" />
 </p>
 <p align="center">
   💪 Software Engineer | 💼 2+ Years Experience | 🧠 Full Stack Developer
